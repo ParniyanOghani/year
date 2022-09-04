@@ -1,0 +1,11 @@
+class year:
+    
+    def __init__(self, x, y):
+        self.x = solar year
+        self.y = lunar year
+        
+    def solar_to_lunar(self):
+        return (self.x += 621)
+    
+    def lunar_to_solar(self):
+        return (self.y -= 621)
